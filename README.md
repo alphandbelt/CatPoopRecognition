@@ -1,2 +1,1 @@
-# CatPoopRecognition
-用Python实现的一个非常简单的检测猫是否去猫砂盆拉屎的模型
+1. 识别猫猫是否去猫砂盆
