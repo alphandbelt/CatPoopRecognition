@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/Alphandbelt/Downloads/PythonKeepLearning-main/PythonKeepLearning-main/TrainsProjects/CatPoopRecognition/steps"
+		},
+		{
+			"path": "C:/Users/Alphandbelt/Downloads/PythonKeepLearning-main/PythonKeepLearning-main/TrainsProjects/CatPoopRecognition/training_data"
+		},
+		{
+			"path": "C:/Users/Alphandbelt/Downloads/PythonKeepLearning-main/PythonKeepLearning-main/TrainsProjects/CatPoopRecognition/validation_data"
+		},
+		{
+			"path": "C:/Users/Alphandbelt/Downloads/PythonKeepLearning-main/PythonKeepLearning-main/TrainsProjects/CatPoopRecognition/docs"
+		},
+		{
+			"path": "C:/Users/Alphandbelt/Downloads/PythonKeepLearning-main/PythonKeepLearning-main/TrainsProjects/CatPoopRecognition/src"
+		}
+	],
+	"settings": {}
+}
